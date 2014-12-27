@@ -1,0 +1,14 @@
+# bundle_id = "domain.id"
+# path is the relative path to the workflow in the project root
+---
+path: workflow
+domain: com.micahrosales
+id: iplocation-alfred
+name: IP-Location
+createdby: Micah Rosales
+description: Alfred workflow for looking up IP information
+webaddress: http://github.com/mrosales/alfred-iplocation
+
+# If you are using Alfred's advanced Dropbox sync, indicate the path shown in
+# Alfred Preferences > Advanced > Syncing:
+dropbox: ~/Dropbox/Apps/Alfred
